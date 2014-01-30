@@ -1,7 +1,6 @@
 
 ## bootstrap-bower-datepicker
 
-test4
 This is the bower repository for the datepicker component of of the [angular-ui/bootstrap project](https://github.com/angular-ui/bootstrap) project.
 
 ### Usage
